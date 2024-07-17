@@ -9,8 +9,12 @@
 
 Referencias:
 > https://www.vogue.es/moda/galerias/marcas-ropa-deportiva-fitness-yoga-pilates
-> https://www.innovasport.com/ropa/deportiva/mujer/c/100020001000000000
-> https://www.oldnavy.mx/mujer/active
+
+> https://medium.com/@EndeavorGymWear/mini-gu%C3%ADa-c%C3%B3mo-iniciar-tu-negocio-de-ropa-deportiva-6c3ccc4a2ebc
+
+> https://blog.inconcertcc.com/es/paso-a-paso-para-crear-una-campana-de-marketing-digital/
+
+> https://www.deportescaneda.com/blog/13-consejos-para-elegir-la-ropa-deportiva
 
 ## Draft de contenido
 
