@@ -14,7 +14,7 @@ Referencias:
 
 ## Draft de contenido
 
-### Promp utilizado
+### Prompt utilizado
 ```
 Siguiendo esta misma línea, tú eres el community manager de Olé y ahora tienes que crear con este mismo concepto, una propuesta para mailing. Es el primer correo de la campaña de marketing digital y va relacionado con la publicación de instagram hecha previamente. Deberá tener link al sitio web y las indicaciones pertinentes que indiquen que se trata de un mail de la empresa.
 ```

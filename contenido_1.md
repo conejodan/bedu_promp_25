@@ -14,7 +14,7 @@ Referencias:
 
 ## Draft de contenido
 
-### Promp utilizado
+### Prompt utilizado
 ```
 Eres el community manager de una marca de ropa deportiva para mujer que se llama "olé" con establecimientos físicos en México y tienda virtual con envíos a todo el país. En este momento te tocará colaborar en la nueva campaña de marketing digital que consistirá en mailing, redes sociales y anuncios en alguna revista digital. La campaña está dirigida a mujeres jóvenes que comprarán por primera vez la marca, que les gusta la actividad deportiva como yoga, gimnasio, spinning, conocen la marca pero no han comprado previamente y están en una edad entre 18 y 21 años, recién egresadas de la universidad, su nivel socioeconómico es medio alto, pues la marca maneja productos exclusivos con diseños únicos por talla. Elabora una copy creativo, innovador, disruptivo y aspiracional para publicar en instagram la primera publicación de esta campaña.
 ```

@@ -15,7 +15,7 @@ Referencias:
 
 ## Draft de contenido
 
-### Promp utilizado
+### Prompt utilizado
 ```
 Elabora el anuncio publicitario de lanzamiento de Olé en la revista digital 'Estilo DF' que aborda temas de estilo, moda, belleza, deportes, gastronomía, turismo, etc.
 ```
